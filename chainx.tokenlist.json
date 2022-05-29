@@ -115,7 +115,7 @@
       "decimals": 18,
       "logoURI": "https://soswap.finance/static/media/KsxLogo.b4d66e60.svg"
     },
-        {
+    {
       "chainId": 1506,
       "address": "0xF373b95a00662ed1211948F414b252E56c0fa0C4",
       "assetId":99,
