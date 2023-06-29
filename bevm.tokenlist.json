@@ -1,11 +1,12 @@
 {
   "name": "Default",
-  "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/icon_soswap.svg",
+  "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/bswap/assets/icon_soswap.svg",
   "keywords": [
     "default",
-    "defi"
+    "defi",
+    "bevm"
   ],
-  "timestamp": "2021-05-27T20:37:00.000+00:00",
+  "timestamp": "2023-06-29T11:00:00.000+00:00",
   "tokens": [
     {
       "chainId": 1501,
@@ -14,7 +15,7 @@
       "name": "BEVM",
       "symbol": "PCX",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/PCX.svg"
+      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/bswap/assets/PCX.svg"
     },
     {
       "chainId": 1501,
