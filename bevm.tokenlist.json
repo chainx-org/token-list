@@ -106,6 +106,15 @@
       "symbol": "BANK",
       "decimals": 0,
       "logoURI": ""
+    },
+    {
+      "chainId": 1501,
+      "address": "0xeb56614ff0cc903e74982a17a2f439288f1526fb",
+      "assetId": 1,
+      "name": "BEVM",
+      "symbol": "BPCX",
+      "decimals": 0,
+      "logoURI": ""
     }
   ],
   "bridgeTokens": [
@@ -185,6 +194,6 @@
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 4
+    "patch": 8
   }
 }
