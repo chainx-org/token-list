@@ -174,11 +174,17 @@
       "type": "inscription",
       "address": "0x95e1fb983ec11713925d505c09f95aa74e16dff9",
       "tick": "bank"
+    },
+    {
+      "symbol": "BPCX",
+      "type": "inscription",
+      "address": "0xeb56614ff0cc903e74982a17a2f439288f1526fb",
+      "tick": "bpcx"
     }
   ],
   "version": {
     "major": 0,
     "minor": 0,
-    "patch": 1
+    "patch": 4
   }
 }
