@@ -19,101 +19,101 @@
     },
     {
       "chainId": 1501,
-      "address": "0xaa0CA08abb8f3Bb4bad00bb4192D87c3DE6E5a48",
+      "address": "0x1d1ce1d02ba582cffd0fc0093fd6bab678708b4e",
       "assetId": 1,
       "name": "BEVM",
       "symbol": "ORDI",
-      "decimals": 0,
+      "decimals": 18,
       "logoURI": ""
     },
     {
       "chainId": 1501,
-      "address": "0x57b541e974f04ef032735508c469341f6cdc4e61",
+      "address": "0x6e128a3bcfc042d539cae6fe761ab3ef6d0e298c",
       "assetId": 1,
       "name": "BEVM",
       "symbol": "SATS",
-      "decimals": 0,
+      "decimals": 18,
       "logoURI": ""
     },
     {
       "chainId": 1501,
-      "address": "0xd6b437f102be1140968b539cc487b24ef57513b8",
+      "address": "0x81be9ac04ad958689c6e127d23dc617e771904cc",
       "assetId": 1,
       "name": "BEVM",
       "symbol": "OXBT",
-      "decimals": 0,
+      "decimals": 18,
       "logoURI": ""
     },
     {
       "chainId": 1501,
-      "address": "0x0a91cd456e39e90dbf36cf8515e068268b1f89de",
+      "address": "0x226bc019d462e84ba11bb2d7ee277265e01822d1",
       "assetId": 1,
       "name": "BEVM",
       "symbol": "BTOC",
-      "decimals": 0,
+      "decimals": 18,
       "logoURI": ""
     },
     {
       "chainId": 1501,
-      "address": "0x50e61862727a1669337f85b1c2e53740c84c608e",
+      "address": "0xcb5b1c98ac48d1c711db4509ba06a07042c07fa5",
       "assetId": 1,
       "name": "BEVM",
       "symbol": "MXRC",
-      "decimals": 0,
+      "decimals": 18,
       "logoURI": ""
     },
     {
       "chainId": 1501,
-      "address": "0x2fa5ff112564b924c2afced88be257f5af0d2ee3",
+      "address": "0x40b3f790ec663aae1cc1b4ddce34885df2327267",
       "assetId": 1,
       "name": "BEVM",
       "symbol": "ZBIT",
-      "decimals": 0,
+      "decimals": 18,
       "logoURI": ""
     },
     {
       "chainId": 1501,
-      "address": "0x13eac52106944886179c6d7dfaef348c1d2ab819",
+      "address": "0x193770dfca8fa6222100029ea1299adc44a69062",
       "assetId": 1,
       "name": "BEVM",
       "symbol": "VMPX",
-      "decimals": 0,
+      "decimals": 18,
       "logoURI": ""
     },
     {
       "chainId": 1501,
-      "address": "0x8da065c48f74c4f092fe5a00acc55cebe9649fef",
+      "address": "0x4318cec7517c007315988826033e6d4a25d74ee7",
       "assetId": 1,
       "name": "BEVM",
       "symbol": "MOON",
-      "decimals": 0,
+      "decimals": 18,
       "logoURI": ""
     },
     {
       "chainId": 1501,
-      "address": "0xf65c0dbd1d20a8d31e22f5bd9a4798aa133a7e4b",
+      "address": "0x848c8cb9f9f2f88c6679cd5616a9fa87e551670a",
       "assetId": 1,
       "name": "BEVM",
       "symbol": "MEME",
-      "decimals": 0,
+      "decimals": 18,
       "logoURI": ""
     },
     {
       "chainId": 1501,
-      "address": "0x95e1fb983ec11713925d505c09f95aa74e16dff9",
+      "address": "0x66ae80f1dce07410311bff33ced55b04fba1b430",
       "assetId": 1,
       "name": "BEVM",
       "symbol": "BANK",
-      "decimals": 0,
+      "decimals": 18,
       "logoURI": ""
     },
     {
       "chainId": 1501,
-      "address": "0xeb56614ff0cc903e74982a17a2f439288f1526fb",
+      "address": "0xdf8cf14ecb8f2cbb26d1e74c9774344fb7caecf7",
       "assetId": 1,
       "name": "BEVM",
       "symbol": "BPCX",
-      "decimals": 0,
+      "decimals": 18,
       "logoURI": ""
     }
   ],
@@ -127,73 +127,73 @@
     {
       "symbol": "ORDI",
       "type": "inscription",
-      "address": "0xaa0CA08abb8f3Bb4bad00bb4192D87c3DE6E5a48",
+      "address": "0x1d1ce1d02ba582cffd0fc0093fd6bab678708b4e",
       "tick": "ordi"
     },
     {
       "symbol": "SATS",
       "type": "inscription",
-      "address": "0x57b541e974f04ef032735508c469341f6cdc4e61",
+      "address": "0x6e128a3bcfc042d539cae6fe761ab3ef6d0e298c",
       "tick": "sats"
     },
     {
       "symbol": "OXBT",
       "type": "inscription",
-      "address": "0xd6b437f102be1140968b539cc487b24ef57513b8",
+      "address": "0x81be9ac04ad958689c6e127d23dc617e771904cc",
       "tick": "oxbt"
     },
     {
       "symbol": "BTOC",
       "type": "inscription",
-      "address": "0x0a91cd456e39e90dbf36cf8515e068268b1f89de",
+      "address": "0x226bc019d462e84ba11bb2d7ee277265e01822d1",
       "tick": "btoc"
     },
     {
       "symbol": "MXRC",
       "type": "inscription",
-      "address": "0x50e61862727a1669337f85b1c2e53740c84c608e",
+      "address": "0xcb5b1c98ac48d1c711db4509ba06a07042c07fa5",
       "tick": "mxrc"
     },
     {
       "symbol": "ZBIT",
       "type": "inscription",
-      "address": "0x2fa5ff112564b924c2afced88be257f5af0d2ee3",
+      "address": "0x40b3f790ec663aae1cc1b4ddce34885df2327267",
       "tick": "zbit"
     },
     {
       "symbol": "VMPX",
       "type": "inscription",
-      "address": "0x13eac52106944886179c6d7dfaef348c1d2ab819",
+      "address": "0x193770dfca8fa6222100029ea1299adc44a69062",
       "tick": "vmpx"
     },
     {
       "symbol": "MOON",
       "type": "inscription",
-      "address": "0x8da065c48f74c4f092fe5a00acc55cebe9649fef",
+      "address": "0x4318cec7517c007315988826033e6d4a25d74ee7",
       "tick": "moon"
     },
     {
       "symbol": "MEME",
       "type": "inscription",
-      "address": "0xf65c0dbd1d20a8d31e22f5bd9a4798aa133a7e4b",
+      "address": "0x848c8cb9f9f2f88c6679cd5616a9fa87e551670a",
       "tick": "meme"
     },
     {
       "symbol": "BANK",
       "type": "inscription",
-      "address": "0x95e1fb983ec11713925d505c09f95aa74e16dff9",
+      "address": "0x66ae80f1dce07410311bff33ced55b04fba1b430",
       "tick": "bank"
     },
     {
       "symbol": "BPCX",
       "type": "inscription",
-      "address": "0xeb56614ff0cc903e74982a17a2f439288f1526fb",
+      "address": "0xdf8cf14ecb8f2cbb26d1e74c9774344fb7caecf7",
       "tick": "bpcx"
     }
   ],
   "version": {
     "major": 0,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }
