@@ -122,84 +122,85 @@
       "type": "token",
       "symbol": "BTC",
       "address": "0x0000000000000000000000000000000000000000",
-      "tick": ""
+      "tick": "",
+      "decimals": 18
     },
     {
       "symbol": "ORDI",
       "type": "inscription",
       "address": "0x1d1ce1d02ba582cffd0fc0093fd6bab678708b4e",
       "tick": "ordi",
-      "decimals": 18,
+      "decimals": 18
     },
     {
       "symbol": "SATS",
       "type": "inscription",
       "address": "0x6e128a3bcfc042d539cae6fe761ab3ef6d0e298c",
       "tick": "sats",
-      "decimals": 18,
+      "decimals": 18
     },
     {
       "symbol": "OXBT",
       "type": "inscription",
       "address": "0x81be9ac04ad958689c6e127d23dc617e771904cc",
       "tick": "oxbt",
-      "decimals": 18,
+      "decimals": 18
     },
     {
       "symbol": "BTOC",
       "type": "inscription",
       "address": "0x226bc019d462e84ba11bb2d7ee277265e01822d1",
       "tick": "btoc",
-      "decimals": 18,
+      "decimals": 18
     },
     {
       "symbol": "MXRC",
       "type": "inscription",
       "address": "0xcb5b1c98ac48d1c711db4509ba06a07042c07fa5",
       "tick": "mxrc",
-      "decimals": 18,
+      "decimals": 18
     },
     {
       "symbol": "ZBIT",
       "type": "inscription",
       "address": "0x40b3f790ec663aae1cc1b4ddce34885df2327267",
       "tick": "zbit",
-      "decimals": 18,
+      "decimals": 18
     },
     {
       "symbol": "VMPX",
       "type": "inscription",
       "address": "0x193770dfca8fa6222100029ea1299adc44a69062",
       "tick": "vmpx",
-      "decimals": 18,
+      "decimals": 18
     },
     {
       "symbol": "MOON",
       "type": "inscription",
       "address": "0x4318cec7517c007315988826033e6d4a25d74ee7",
       "tick": "moon",
-      "decimals": 18,
+      "decimals": 18
     },
     {
       "symbol": "MEME",
       "type": "inscription",
       "address": "0x848c8cb9f9f2f88c6679cd5616a9fa87e551670a",
       "tick": "meme",
-      "decimals": 18,
+      "decimals": 18
     },
     {
       "symbol": "BANK",
       "type": "inscription",
       "address": "0x66ae80f1dce07410311bff33ced55b04fba1b430",
       "tick": "bank",
-      "decimals": 18,
+      "decimals": 18
     },
     {
       "symbol": "BPCX",
       "type": "inscription",
       "address": "0xdf8cf14ecb8f2cbb26d1e74c9774344fb7caecf7",
       "tick": "bpcx",
-      "decimals": 18,
+      "decimals": 18
     }
   ],
   "version": {
