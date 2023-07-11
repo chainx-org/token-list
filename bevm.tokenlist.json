@@ -12,7 +12,7 @@
       "chainId": 1501,
       "address": "0xf3607524cAB05762cB5F0cAb17e4cA3A0F0b4E87",
       "assetId": 1,
-      "name": "BEVM",
+      "name": "ChainX",
       "symbol": "PCX",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/bswap/assets/PCX.svg"
@@ -21,7 +21,7 @@
       "chainId": 1501,
       "address": "0x1d1ce1d02ba582cffd0fc0093fd6bab678708b4e",
       "assetId": 1,
-      "name": "BEVM",
+      "name": "BRC-20 ORDI",
       "symbol": "ORDI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/bswap/assets/ordi.png"
@@ -30,7 +30,7 @@
       "chainId": 1501,
       "address": "0x6e128a3bcfc042d539cae6fe761ab3ef6d0e298c",
       "assetId": 1,
-      "name": "BEVM",
+      "name": "BRC-20 SATS",
       "symbol": "SATS",
       "decimals": 18,
       "logoURI": ""
@@ -39,7 +39,7 @@
       "chainId": 1501,
       "address": "0x81be9ac04ad958689c6e127d23dc617e771904cc",
       "assetId": 1,
-      "name": "BEVM",
+      "name": "BRC-20 OXBT",
       "symbol": "OXBT",
       "decimals": 18,
       "logoURI": ""
@@ -48,7 +48,7 @@
       "chainId": 1501,
       "address": "0x226bc019d462e84ba11bb2d7ee277265e01822d1",
       "assetId": 1,
-      "name": "BEVM",
+      "name": "BRC-20 BTOC",
       "symbol": "BTOC",
       "decimals": 18,
       "logoURI": ""
@@ -57,7 +57,7 @@
       "chainId": 1501,
       "address": "0xcb5b1c98ac48d1c711db4509ba06a07042c07fa5",
       "assetId": 1,
-      "name": "BEVM",
+      "name": "BRC-20 MXRC",
       "symbol": "MXRC",
       "decimals": 18,
       "logoURI": ""
@@ -66,7 +66,7 @@
       "chainId": 1501,
       "address": "0x40b3f790ec663aae1cc1b4ddce34885df2327267",
       "assetId": 1,
-      "name": "BEVM",
+      "name": "BRC-20 ZBIT",
       "symbol": "ZBIT",
       "decimals": 18,
       "logoURI": ""
@@ -75,7 +75,7 @@
       "chainId": 1501,
       "address": "0x193770dfca8fa6222100029ea1299adc44a69062",
       "assetId": 1,
-      "name": "BEVM",
+      "name": "BRC-20 VMPX",
       "symbol": "VMPX",
       "decimals": 18,
       "logoURI": ""
@@ -84,7 +84,7 @@
       "chainId": 1501,
       "address": "0x4318cec7517c007315988826033e6d4a25d74ee7",
       "assetId": 1,
-      "name": "BEVM",
+      "name": "BRC-20 MOON",
       "symbol": "MOON",
       "decimals": 18,
       "logoURI": ""
@@ -93,7 +93,7 @@
       "chainId": 1501,
       "address": "0x848c8cb9f9f2f88c6679cd5616a9fa87e551670a",
       "assetId": 1,
-      "name": "BEVM",
+      "name": "BRC-20 MEME",
       "symbol": "MEME",
       "decimals": 18,
       "logoURI": ""
@@ -102,7 +102,7 @@
       "chainId": 1501,
       "address": "0x66ae80f1dce07410311bff33ced55b04fba1b430",
       "assetId": 1,
-      "name": "BEVM",
+      "name": "BRC-20 BANK",
       "symbol": "BANK",
       "decimals": 18,
       "logoURI": ""
@@ -111,7 +111,7 @@
       "chainId": 1501,
       "address": "0xdf8cf14ecb8f2cbb26d1e74c9774344fb7caecf7",
       "assetId": 1,
-      "name": "BEVM",
+      "name": "BRC-20 BPCX",
       "symbol": "BPCX",
       "decimals": 18,
       "logoURI": ""
@@ -206,6 +206,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 3
+    "patch": 4
   }
 }
