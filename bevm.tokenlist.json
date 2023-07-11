@@ -24,7 +24,7 @@
       "name": "BEVM",
       "symbol": "ORDI",
       "decimals": 18,
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/bswap/assets/ordi.png"
     },
     {
       "chainId": 1501,
