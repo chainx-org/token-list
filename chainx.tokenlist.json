@@ -108,12 +108,30 @@
     },
     {
       "chainId": 1506,
+      "address": "0x900639Cc5A37c519C9E32Bfa7EAdf747c53D9B0A",
+      "assetId":99,
+      "name": "SherpaX",
+      "symbol": "wKSX",
+      "decimals": 18,
+      "logoURI": "https://soswap.finance/static/media/KsxLogo.b4d66e60.svg"
+    },
+    {
+      "chainId": 1506,
       "address": "0xF373b95a00662ed1211948F414b252E56c0fa0C4",
       "assetId":99,
       "name": "SherpaX",
       "symbol": "SO",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/SO.svg"
+    },
+    {
+      "chainId": 1506,
+      "address": "0x9bC08040209903eD64a5a80B2E8b4903E24EFEB5",
+      "assetId":99,
+      "name": "Sherpuppy",
+      "symbol": "SHP",
+      "decimals": 18,
+      "logoURI": "https://sherpuppy.dog/favicon.png"
     }
   ],
   "version": {
