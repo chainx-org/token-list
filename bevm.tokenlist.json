@@ -78,7 +78,7 @@
       "name": "BRC-20 VMPX",
       "symbol": "VMPX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/bswap/assets/vmpx.jpg"
+      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/bswap/assets/vmpx.png"
     },
     {
       "chainId": 1501,
@@ -96,7 +96,7 @@
       "name": "BRC-20 MEME",
       "symbol": "MEME",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/bswap/assets/meme.jpg"
+      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/bswap/assets/meme.png"
     },
     {
       "chainId": 1501,
@@ -206,6 +206,6 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 4.2
+    "patch": 4.3
   }
 }
