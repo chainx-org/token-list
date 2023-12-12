@@ -201,11 +201,18 @@
       "address": "0xdf8cf14ecb8f2cbb26d1e74c9774344fb7caecf7",
       "tick": "bpcx",
       "decimals": 18
+    },
+      {
+      "symbol": "9527",
+      "type": "inscription",
+      "address": "0xea93047018fd60C7d8EE05d9c253D3c3Ded4D589",
+      "tick": "9527",
+      "decimals": 18
     }
   ],
   "version": {
     "major": 1,
-    "minor": 0,
+    "minor": 1,
     "patch": 4.3
   }
 }
