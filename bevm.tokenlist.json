@@ -115,6 +115,15 @@
       "symbol": "BPCX",
       "decimals": 18,
       "logoURI": ""
+    },
+    {
+      "chainId": 1501,
+      "address": "0xea93047018fd60C7d8EE05d9c253D3c3Ded4D589",
+      "assetId": 1,
+      "name": "BRC-20 9527",
+      "symbol": "9527",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/bswap/assets/9527.png"
     }
   ],
   "bridgeTokens": [
@@ -212,7 +221,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 1,
+    "minor": 2,
     "patch": 4.3
   }
 }
