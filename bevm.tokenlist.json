@@ -19,6 +19,15 @@
     },
     {
       "chainId": 1501,
+      "address": "0x09Ff8E49D0EA411A3422ed95E8f5497D4241F532",
+      "assetId": 1,
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/bswap/assets/wbtc.png"
+    },
+    {
+      "chainId": 1501,
       "address": "0x1d1ce1d02ba582cffd0fc0093fd6bab678708b4e",
       "assetId": 1,
       "name": "BRC-20 ORDI",
@@ -222,6 +231,6 @@
   "version": {
     "major": 1,
     "minor": 2,
-    "patch": 4.3
+    "patch": 4.4
   }
 }
