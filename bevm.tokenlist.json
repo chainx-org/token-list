@@ -24,7 +24,7 @@
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/bswap/assets/wbtc.png"
+      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/bswap/assets/XBTC.svg"
     },
     {
       "chainId": 1501,
