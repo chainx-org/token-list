@@ -1,0 +1,52 @@
+{
+  "name": "Default",
+  "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/icon_soswap.svg",
+  "keywords": [
+    "default",
+    "defi"
+  ],
+  "timestamp": "2021-05-27T20:37:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 1502,
+      "address": "0x7207C535f90B57C4bb5E0CCeaA45560221C61814",
+      "assetId": 1,
+      "name": "BEVM",
+      "symbol": "PCX",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/chainx-org/token-list/main/assets/PCX.svg"
+    },
+    {
+      "chainId": 1502,
+      "address": "0x52ae5168D75D47832B9bEE573C169cDcD0709A36",
+      "assetId": 1,
+      "name": "BEVM",
+      "symbol": "ORDI",
+      "decimals": 0,
+      "logoURI": ""
+    },
+    {
+      "chainId": 1502,
+      "address": "0x500086783454ceC51fA6788f8b55D5971299FcFb",
+      "assetId": 1,
+      "name": "BEVM",
+      "symbol": "SATS",
+      "decimals": 0,
+      "logoURI": ""
+    },
+    {
+      "chainId": 1501,
+      "address": "0xFd861b4eeA652d92a679504a8b8341655340eA5d",
+      "assetId": 1,
+      "name": "BEVM",
+      "symbol": "WBTC",
+      "decimals": 0,
+      "logoURI": ""
+    }
+  ],
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 1
+  }
+}
